@@ -1,4 +1,4 @@
-# hortorgames
+# Hortor Games
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hortorgames is a company surfaced as a portfolio company of qiming and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Hortor Games (Beijing Haoteng Chuangxiang Technology Co., Ltd. / 北京豪腾创想科技有限公司) is a Chinese mobile game developer and publisher focused on casual, word, and mini-game titles distributed as standalone apps and as WeChat / Douyin mini-games. Its catalog includes idiom and word puzzle games such as 成语小秀才, plus casual titles like 肥鹅健身房 (Goose Gym), 咸鱼之王, 海岛来了, and 稻田路. The company operates consumer game landing and distribution sites across the hortorgames.com, hortorcx.com, and 666youxiting.com domains. It was surfaced as a portfolio company of Qiming Venture Partners and added to the API Evangelist network; it publishes no public developer API program, SDK, or documentation surface at this time.
 
-Backed by: qiming — https://hortorgames.com
+**Areas:** Company · Games · Gaming · Mobile Games · Mini Games · Casual Games · Game Developer · Game Publisher · China
+
+## Hortor Games on APIs.io
+
+Everything profiled for Hortor Games is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hortorgames/](https://apis.io/providers/hortorgames/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hortorgames Domain Security](https://apis.io/security/hortorgames/hortorgames-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hortorgames.com)
+
+## API Evangelist rating
+
+**Kin Score 3.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hortorgames/](https://apis.io/providers/hortorgames/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hortor Games: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hortorgames/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
